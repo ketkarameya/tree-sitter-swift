@@ -1,7 +1,7 @@
 node_modules
-/src/*
 !/src/parser.c
 !/src/scanner.c
+# /src/*
 *.swp
 /build
 /test
